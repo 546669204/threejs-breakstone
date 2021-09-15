@@ -1,0 +1,4 @@
+node_modules
+package.json
+sever.js
+*.lock
